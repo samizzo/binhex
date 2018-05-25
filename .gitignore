@@ -1,0 +1,4 @@
+*.vtcache
+*.user
+.vs/*
+x64/*
